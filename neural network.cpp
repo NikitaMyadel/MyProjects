@@ -4,6 +4,9 @@
 Автор: Мядель Никита */
 
 
+/*  QQQQQQQQQQQQQQQQQQQ */
+
+
 #include <iostream>
 #include <fstream>
 #include <cmath>
